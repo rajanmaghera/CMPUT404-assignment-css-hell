@@ -12,6 +12,14 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+Gutenberg Modifications
+=======================
+From all 3 stories, I have modified the following:
+- I have changed the favicon image links to match the new folder organization
+- I have changed the image links to match the new folder organization
+- I have removed all code between and including the `<style>` tags
+- I have added a link to the new CSS file in the `<head>` tag
+
 License/Copyright
 =================
 
